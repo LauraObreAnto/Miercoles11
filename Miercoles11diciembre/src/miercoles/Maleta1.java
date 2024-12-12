@@ -1,10 +1,11 @@
+package miercoles;
 
-public class Maleta2 {
+public class Maleta1 {
 	
 	private String marca;
 	private double peso;
 	
-	public Maleta2(String marca, double peso) {
+	public Maleta1(String marca, double peso) {
 		super();
 		this.marca = marca;
 		this.peso = peso;
@@ -22,7 +23,11 @@ public class Maleta2 {
 	public void setPeso(double peso) {
 		this.peso = peso;
 	}
-	
-	
-}
 
+	
+	
+
+
+	
+
+}

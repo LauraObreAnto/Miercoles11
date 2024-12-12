@@ -1,3 +1,4 @@
+package miercoles;
 
 public class Turista {
 
